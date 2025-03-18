@@ -1,5 +1,5 @@
 # 💫 About Me:
-## Hi there! 👋 I'm V-sal currently i'm studying
+## Hi there! 👋 I'm V-sal currently i'm student
 
 
 # 💻 Tech Stack:
