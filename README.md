@@ -1,5 +1,5 @@
 # 💫 About Me:
-## Hi there! 👋 I'm V-sal <br><br>### 📫 Connect with Me<br>- **GitHub:** [github.com/visall1](https://github.com/visall1)<br>- **Email:** roeunkeovisal@gmail.com<br><br><br>⚡ **Fun Fact:** When I'm not coding, you'll find me capturing moments through my camera lens lol !🎥📸<br>
+## Hi there! 👋 I'm V-sal currently i'm studying
 
 
 # 💻 Tech Stack:
