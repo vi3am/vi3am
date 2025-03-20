@@ -1,5 +1,5 @@
-# 💫 About Me:
- Hi there! 👋 I'm V-sal, 
+# 💫 Hi there! I'm V-sal:
+
 
 
 # 💻 Tech Stack:
