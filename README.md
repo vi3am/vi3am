@@ -3,7 +3,7 @@
 🚀 Aspiring Software Developer passionate about building real-world applications and continuously leveling up my skills
 
 🔭 I’m currently working on
-A **Food Ordering POS System (C# WinForms + Entity Framework Core)** and modern **Android apps using Jetpack Compose**
+A **Food Ordering POS System (PHP Laravel & REACT.JS & REACT NAVTIVE)** and modern **Android apps using Jetpack Compose**
 
 👯 I’m looking to collaborate on
 Open-source projects, Android apps, and full-stack applications that solve real problems
