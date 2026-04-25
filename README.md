@@ -15,7 +15,7 @@ Scaling apps using **clean architecture**, improving **app performance**, and wr
 
 * 📱 Android Development (Jetpack Compose)
 * 🧠 Clean Architecture & MVVM
-* 🌐 Backend Development (.NET DJANGO SPRINGBOOT LARAVEL & APIs)
+* 🌐 Backend Development (.NET DJANGO SpringBoot LARAVEL & APIs)
 * 🎨 UI/UX design principles
 
 💬 Ask me about
@@ -33,11 +33,6 @@ I don’t just learn tech — I **build with it immediately**. Every concept I l
 ![](https://streak-stats.demolab.com/?user=vi3am&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=vi3am&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://komarev.com/ghpvc/?username=vi3am&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 # 🧠 Developer Mindset:
@@ -60,7 +55,8 @@ I believe consistency beats talent — and I show that through my projects.
 
 * 💼 Open to internships & junior developer roles
 * 🤝 Always ready to collaborate and learn
+* 🔥 *“Still early in my journey — but moving fast, building smart, and aiming high.”*
 
 ---
 
-🔥 *“Still early in my journey — but moving fast, building smart, and aiming high.”*
+
